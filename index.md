@@ -1,5 +1,5 @@
 ---
 title:Bem vindo ao meu Blog!
-autor: O grande LFR
+author: O grande LFR
 ---
 
